@@ -1,23 +1,18 @@
-# poison CLI
+<div style="text-align: center">
+  <pre style="color: purple">
+    _____     ___ /\_\    ____    ___     ___       /\_\    ____  
+    /\ '__`\  / __`\/\ \  /',__\  / __`\ /' _ `\     \/\ \  /',__\ 
+    \ \ \L\ \/\ \L\ \ \ \/\__, `\/\ \L\ \/\ \/\ \  __ \ \ \/\__, `\
+    \ \ ,__/\ \____/\ \_\/\____/\ \____/\ \_\ \_\/\_\_\ \ \/\____/
+      \ \ \/  \/___/  \/_/\/___/  \/___/  \/_/\/_/\/_/\ \_\ \/___/ 
+      \ \_\                                         \ \____/      
+        \/_/                                          \/___/       
+  </pre>
+</div>
 
-A CLI for poison.
+# Poison CLI
 
-## Customizing your CLI
-
-Check out the documentation at https://github.com/infinitered/gluegun/tree/master/docs.
-
-## Publishing to NPM
-
-To package your CLI up for NPM, do this:
-
-```shell
-$ npm login
-$ npm whoami
-$ npm lint
-$ npm test
-(if typescript, run `npm run build` here)
-$ npm publish
-```
+A CLI for poison-js.
 
 # License
 
