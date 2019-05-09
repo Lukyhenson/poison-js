@@ -1,0 +1,21 @@
+<template>
+  <h1>Component {{ name }}</h1>
+</template>
+
+<script>
+export default {
+  name: '<%= props.name %>',
+  data() {
+    return {
+      name: '<%= props.name %>',
+    }
+  },
+  methods: {
+  }
+}
+</script>
+
+<style scoped>
+.<%= props.cssComponentName %> {
+}
+</style>
