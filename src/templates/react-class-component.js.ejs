@@ -5,12 +5,12 @@ class <%= props.name %> extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      message: `<%= props.name %>`,
+      name: `<%= props.name %>`,
     }
   }
 
   render() {
-    return <h1>{this.state.message}</h1>
+    return <h1>Component {this.state.name}!</h1>
   }
 };
 
