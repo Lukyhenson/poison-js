@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="color: purple;">Poison<span style="color: black">.js</span></h1>
+  <h1>Poison.js</h1>
 </div>
 
 # Poison CLI
