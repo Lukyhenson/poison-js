@@ -1,7 +1,7 @@
 module.exports = {
   name: 'generate:vue:component',
   alias: ['gvc'],
-  description: 'This command will create a vue component, [--path] [--type] [--styled]',
+  description: 'This command will create a vue component',
   run: async toolbox => {
     const { 
       parameters: { first, },
