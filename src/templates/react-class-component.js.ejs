@@ -1,0 +1,17 @@
+import './index.scss';
+import React from 'react';
+
+class <%= props.name %> extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      message: `<%= props.name %>`,
+    }
+  }
+
+  render() {
+    return <h1>{this.state.message}</h1>
+  }
+};
+
+export default <%= props.name %>;
