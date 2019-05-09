@@ -1,8 +1,7 @@
 {
-  "name": "poison",
+  "name": "poison-cli",
   "version": "0.0.1",
   "description": "poison CLI",
-  "private": true,
   "bin": {
     "poison": "bin/poison"
   },
