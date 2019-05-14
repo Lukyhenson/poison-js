@@ -1,4 +1,6 @@
-![Image of Poison.js](http://i.imgur.com/ZtTXFBC.png)
+<p align="center">
+  <img src="http://i.imgur.com/ZtTXFBC.png" width="350"/>
+</p>
 
 # Poison CLI
 
