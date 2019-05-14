@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Poison.js</h1>
-</div>
+![Image of Poison.js](http://i.imgur.com/ZtTXFBC.png)
 
 # Poison CLI
 
