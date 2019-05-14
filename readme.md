@@ -2,9 +2,9 @@
   <img src="http://i.imgur.com/ZtTXFBC.png" width="350"/>
 </p>
 
-# Poison CLI
+# Poison.js
 
-A CLI for poison-js.
+Hello there, for now Poison.js will be a cli to generate React or Vue Components, something like rails bring to us.
 
 # License
 
